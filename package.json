@@ -1,0 +1,11 @@
+{
+  "name": "404-not-found-master",
+  "version": "1.0.0",
+  "description": "<!-- Please update value in the {}  -->",
+  "main": "gulpfile.babel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
