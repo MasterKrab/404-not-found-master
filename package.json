@@ -1,7 +1,7 @@
 {
   "name": "404-not-found-master",
   "version": "1.0.0",
-  "description": "<!-- Please update value in the {}  -->",
+  "description": "",
   "main": "gulpfile.babel.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -24,6 +24,19 @@
     "gulp-imagemin": "^7.1.0",
     "gulp-plumber": "^1.2.1",
     "gulp-postcss": "^9.0.0",
-    "gulp-terser": "^2.0.0"
-  }
+    "gulp-terser": "^2.0.1"
+  },
+  "browserslist": [
+    "> 1%",
+    "ie >= 8",
+    "edge >= 15",
+    "ie_mob >= 10",
+    "ff >= 45",
+    "chrome >= 45",
+    "safari >= 7",
+    "opera >= 23",
+    "ios >= 7",
+    "android >= 4",
+    "bb >= 10"
+  ]
 }
